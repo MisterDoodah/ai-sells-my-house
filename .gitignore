@@ -1,0 +1,18 @@
+# Sensitive house sale documents — keep local, never commit
+/offers/
+*.docx
+*.pdf
+*.xlsx
+
+# Any file with financial details
+*-financial*
+*-appraisal*
+*-closing*
+*-settlement*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local notes
+*.local.md
