@@ -10,26 +10,6 @@
 
 This is the public documentation of a real-world experiment: **selling a house using AI to drive as much of the process as possible.**
 
-Not a demo. Not a thought experiment. A real house. Real money on the line.
-
-I'm Lee Duda. I am **not** a real estate agent. I'm not an AI expert. This is not financial or real estate advice — please don't go fire your realtor because of this repo.
-
-What this IS: a transparent, unedited record of what AI can and can't do in a high-stakes, real-world process.
-
-Follow the series: **[@aisellsmyhouse](https://instagram.com/aisellsmyhouse)**
-
----
-
-## The Question
-
-My LinkedIn feed is full of it. *"AI will replace 80% of jobs by 2027." "Human work is extinct." "Should you even bother?"*
-
-Even Andrej Karpathy — one of the architects of modern AI — built a tool mapping AI exposure across 342 US occupations ([karpathy.ai/jobs](https://karpathy.ai/jobs)). His own caveat? High exposure scores don't predict job disappearance. A 9/10 AI exposure score for software developers hasn't exactly tanked demand for software developers.
-
-Should you be terrified? Probably not. Should you completely ignore it? Also no.
-
-So instead of posting my opinion, I'm running the experiment. In public. No edits, no spin.
-
 ---
 
 ## The Process
@@ -42,19 +22,6 @@ I'm using [Claude](https://claude.ai) (Anthropic's AI) via [Cowork mode](https:/
 - ❌ Where it fell short
 - 🤝 Where I still needed a human
 - 📊 The final scorecard vs. AI predictions
-
----
-
-## Episode Arc
-
-| # | Title | Status |
-|---|-------|--------|
-| 1 | I asked AI to help me sell my house | 🟢 Live |
-| 2 | What the AI got right (and wrong) on pricing | ⏳ Pending appraisal |
-| 3 | FSBO or Realtor? AI breaks it down | ⏳ Coming soon |
-| 4 | Listing day: AI-assisted copy & photos | ⏳ Coming soon |
-| 5 | First offers came in. Here's what AI said. | ⏳ Coming soon |
-| 6 | We closed. Here's the full scorecard. | ⏳ Coming soon |
 
 ---
 
