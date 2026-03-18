@@ -45,22 +45,3 @@ The `skills/` directory contains the Claude skill files (SKILL.md) used througho
 ### What's NOT in this repo
 
 Sensitive financial details, exact offer amounts, and closing documents stay private. The methodology and skills are public. The bank account isn't.
-
----
-
-## Stack
-
-- **AI:** [Claude](https://claude.ai) via Cowork mode (Anthropic)
-- **Skills framework:** Claude Code Agent Skills
-- **Location:** Philadelphia, PA — Olde Kensington / Fishtown neighborhood
-
----
-
-## Following Along
-
-- 📸 Instagram: [@aisellsmyhouse](https://instagram.com/aisellsmyhouse)
-- 💼 LinkedIn: [Lee Duda](https://linkedin.com/in/leeduda)
-
----
-
-*This is an experiment, not advice. Consult a licensed real estate agent and attorney before making decisions about your own home sale.*
